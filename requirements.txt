@@ -1,6 +1,6 @@
-streamlit
-torch
-opencv-python-headless
-mediapipe
-numpy
-pillow
+streamlit==1.49.1
+torch==2.8.0
+opencv-python-headless==4.12.0.88
+mediapipe==0.10.14
+numpy==2.2.6
+pillow==11.0.0
